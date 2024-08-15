@@ -1,36 +1,24 @@
 {
   "products": [
     {
-      "id": "1",
-      "title": "Produto de Teste"
-    },
-    {
       "id": "6507",
       "title": "João Luiz"
-    },
-    {
-      "id": "5a77",
-      "title": "Nicolas Faria"
     },
     {
       "id": "bd2c",
       "title": "Max Verstappen"
     },
     {
-      "id": "86ae",
-      "title": "Senna"
-    },
-    {
       "id": "8e61",
       "title": "Livro Código Limpo"
     },
     {
-      "id": "d1d8",
-      "title": "Sapato"
-    },
-    {
       "id": "ca99",
       "title": "Carrinho de Brinquedo"
+    },
+    {
+      "id": "1624",
+      "title": "Guitarra"
     }
   ]
 }
