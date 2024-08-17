@@ -1,0 +1,13 @@
+version: '3'
+services:
+  angular-app:
+    build: .
+    ports:
+      - "8080:80"
+
+  json-server:
+    build:
+      context: .
+      dockerfile: Dockerfile-json-server
+    ports:
+      - "3000:3000"
