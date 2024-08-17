@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "title": "Produto de testes (testando)",
+      "title": "Produto de Testes",
       "id": "1"
     },
     {
@@ -23,6 +23,14 @@
     {
       "id": "0994",
       "title": "Caneta"
+    },
+    {
+      "id": "1515",
+      "title": "boneco"
+    },
+    {
+      "id": "ac5f",
+      "title": "Teclado"
     }
   ]
 }
