@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "title": "Produto de Testes sendo testado",
+      "title": "Produto de Testes",
       "id": "1"
     },
     {
@@ -15,10 +15,6 @@
     {
       "id": "1624",
       "title": "Guitarra"
-    },
-    {
-      "id": "0994",
-      "title": "Caneta"
     },
     {
       "id": "ac5f",
