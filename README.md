@@ -6,9 +6,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br>
-Um Gerenciador para a administração e gerenciamentos de produtos diversos
-<br>
-(Em andamento, mais atualizações em breve)
+<h3>Um Gerenciador para a administração e gerenciamentos de produtos diversos</h3>
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 18.1.3.
 
