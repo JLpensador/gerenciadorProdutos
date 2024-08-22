@@ -19,7 +19,7 @@ import { filter } from 'rxjs/operators';
       <button mat-button (click)="onNo()">Não</button>
       <button
         mat-raised-button
-        color="accent"
+        style="background-color: #00b4fc"
         (click)="onYes()"
         cdkFocusInitial
       >
