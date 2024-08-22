@@ -1,12 +1,8 @@
 {
   "products": [
     {
-      "title": "Produto de Testes",
-      "id": "1"
-    },
-    {
-      "id": "6507",
-      "title": "João Luiz"
+      "title": "Feito por João Luiz B. Morais",
+      "id": "6507"
     },
     {
       "id": "8e61",
@@ -19,6 +15,10 @@
     {
       "id": "ac5f",
       "title": "Teclado"
+    },
+    {
+      "title": "Computador",
+      "id": "7a8c"
     }
   ]
 }

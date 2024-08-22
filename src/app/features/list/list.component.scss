@@ -3,3 +3,13 @@
   justify-content: flex-end;
   padding: 16px 0;
 }
+
+.item-container {
+  margin-bottom: 16px;
+  display: block;
+}
+
+.mat-mdc-raised-button,
+.mat-mdc-button-ripple {
+  --mdc-protected-button-container-color: #00b4fc;
+}
