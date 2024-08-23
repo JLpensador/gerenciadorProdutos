@@ -28,6 +28,11 @@
                 "glob": "**/*",
                 "input": "src/assets/",
                 "output": "assets/"
+              },
+              {
+                "glob": "favicon.ico",
+                "input": "src/assets/image/",
+                "output": "assets/"
               }
             ],
             "styles": [
@@ -41,7 +46,7 @@
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kB",
+                  "maximumWarning": "600kB",
                   "maximumError": "1MB"
                 },
                 {
