@@ -10,6 +10,8 @@
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 18.1.3.
 
+![gifProjeto](https://github.com/user-attachments/assets/90c01633-c5a3-4d0f-b840-520af17df55a)
+
 ## Comandos
 
 #### Iniciar servidor local
