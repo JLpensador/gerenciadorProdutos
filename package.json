@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "deploy:ghdocs": "ng build --configuration production --output-path docs --base-href /projeto/browser/"
   },
   "private": true,
   "dependencies": {
@@ -29,6 +30,7 @@
     "@angular/cli": "^18.1.3",
     "@angular/compiler-cli": "^18.1.0",
     "@types/jasmine": "~5.1.0",
+    "concurrently": "^8.2.2",
     "jasmine-core": "~5.1.0",
     "json-server": "^1.0.0-beta.1",
     "karma": "~6.4.0",
