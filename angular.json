@@ -107,7 +107,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "/gerenciadorProdutos/"
+            "baseHref": "gh-pages -d docs -r https://github.com/JLpensador/gerenciadorProdutos"
           }
         }
       }
